@@ -1,0 +1,15 @@
+{
+  "name": "Nikolas Legal Consultation",
+  "short_name": "Nikolas",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f3e8",
+  "theme_color": "#11203a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+
+# Remove this block only after Nikolas approves all professional details,
+# services, fees, privacy terms and the live backend/calendar connection.

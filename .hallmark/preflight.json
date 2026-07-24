@@ -1,0 +1,9 @@
+{
+  "date": "2026-07-23",
+  "framework": "Angular standalone",
+  "styling": "Tailwind 3 plus global CSS",
+  "font_stack": "Fraunces display plus IBM Plex Sans body",
+  "palette": "Atelier paper, navy ink, amber accent",
+  "motion": "motion-cut with functional state feedback only",
+  "spacing": "4pt semantic scale"
+}

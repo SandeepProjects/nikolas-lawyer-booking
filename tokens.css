@@ -1,0 +1,6 @@
+/*
+ * Portable token entry point.
+ * The Angular build consumes src/tokens.css; keep this file alongside it when
+ * transferring the design system to another project.
+ */
+@import "./src/tokens.css";
